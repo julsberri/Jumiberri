@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hola!! 👋
 
 <!--
 **JumiBerri/Jumiberri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+FrontEnd Developer todavia adentro del horno...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+------------------------------------------
+
+
+HTLM
+CSS
+SCSS
+JavaScript
+React
+Vue
+TypeScript
+
+
+------------------------------------------
+
+
+// LinkedIn: https://www.linkedin.com/in/julieta-jaureguiberri/
+// Instagram: https://www.instagram.com/yumiberri/
+// Behance: https://www.behance.net/YumiJIlustraciones
