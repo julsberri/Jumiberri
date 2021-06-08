@@ -1,33 +1,38 @@
 ### Bienvenidos!! 👋
 
-¡Hola! ¿Como estas? 🖖🏻 Mi nombre es Julieta Jaureguiberri. 
-Soy una FrontEnd Developer todavia adentro del horno (Jr, sin experiencia) 👀  y aqui te cuento un poco sobre mi y lo que hago.
-Principalmente soy diseñadora visual Srr con experiencia en Social Media y Marketing y Diseñadora UX | UI Jr. 
+<br>¡Hola! ¿Como estas? 🖖🏻 Mi nombre es Julieta Jaureguiberri. 
+<br>Soy una FrontEnd Developer todavia adentro del horno (Jr, sin experiencia) 👀  y aqui te cuento un poco sobre mi y lo que hago.
+<br>Principalmente soy diseñadora visual Srr con experiencia en Social Media y Marketing y Diseñadora UX | UI Jr. 
 Por el lado de desarrollo tengo conocimiento en los siguientes lenguajes de programación.
-.
-.
+<br>
+<br>
+<br>
 <b>Compiling knowledge... </b>
 ------------------------------------------
-HTLM
-CSS / SCSS
-JavaScript / NodeJS
-ReactJS: 100% - VueJS: 20% - Angular: <i>waiting... </i>
-TypeScript
+<br>
+<br>HTLM
+<br>CSS / SCSS
+<br>JavaScript / NodeJS
+<br>ReactJS: 100% - VueJS: 20% - Angular: <i>waiting... </i>
+<br>TypeScript
+<br>
 ------------------------------------------
-<b>Pending...</b>
-Python
-<i>Still not defined...</i>
+<br>
+<br><b>Pending...</b>
+<br>Python
+<br><i>Still not defined...</i>
 ------------------------------------------
-.
+<br>
 <b>Extra info:</b>
-🖌Me dedico a dibujar historietas e ilustraciones para libros. 
-🖋Podes encontrar mas ejemplos de mi trabajo a continuación:
-.
-.
-💙LinkedIn: https://www.linkedin.com/in/julieta-jaureguiberri/
-❤️Instagram: https://www.instagram.com/yumiberri/
-💜Behance: https://www.behance.net/YumiJIlustraciones
-.
+<br>
+<br>🖌Me dedico a dibujar historietas e ilustraciones para libros. 
+<br>🖋Podes encontrar mas ejemplos de mi trabajo a continuación:
+<br>
+<br>
+<br>💙LinkedIn: https://www.linkedin.com/in/julieta-jaureguiberri/
+<br>❤️Instagram: https://www.instagram.com/yumiberri/
+<br>💜Behance: https://www.behance.net/YumiJIlustraciones
+<br>
 ------------------------------------------
-.
-Gracias por pasar por mi Git. Si tenes una opinión o comentario me encantaria recibirlo :)
+<br>
+<br>Gracias por pasar por mi Git. Si tenes una opinión o comentario me encantaria recibirlo :)
