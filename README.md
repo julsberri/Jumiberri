@@ -1,7 +1,7 @@
 ### Bienvenidos!! 👋
 
 <br>¡Hola! ¿Como estas? 🖖🏻 Mi nombre es Julieta Jaureguiberri. 
-<br>Soy una FrontEnd Developer todavia adentro del horno (Jr, sin experiencia) 👀  y aqui te cuento un poco sobre mi y lo que hago.
+<br>Soy una FrontEnd Developer (Jr, sin experiencia) 👀  y aqui te cuento un poco sobre mi y lo que hago.
 <br>Principalmente soy diseñadora visual Srr con experiencia en Social Media y Marketing y Diseñadora UX | UI Jr. 
 Por el lado de desarrollo tengo conocimiento en los siguientes lenguajes de programación.
 <br>
@@ -13,13 +13,13 @@ Por el lado de desarrollo tengo conocimiento en los siguientes lenguajes de prog
 <br>HTLM
 <br>CSS / SCSS
 <br>JavaScript / NodeJS
-<br>ReactJS: 100% - VueJS: 20% - Angular: <i>waiting... </i>
+<br>ReactJS: 100%
 <br>TypeScript
 <br>
 ------------------------------------------
 <br>
 <br><b>Pending...</b>
-<br>Python
+<br>Vue
 <br><i>Still not defined...</i>
 ------------------------------------------
 <br>
