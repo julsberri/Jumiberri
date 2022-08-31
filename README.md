@@ -21,7 +21,7 @@ Por el lado de desarrollo tengo conocimiento en los siguientes lenguajes de prog
 <br><b>Pending...</b>
 <br>Vue
 <br><i>Still not defined...</i>
-------------------------------------------
+<br>------------------------------------------
 <br>
 <b>Extra info:</b>
 <br>
@@ -30,8 +30,7 @@ Por el lado de desarrollo tengo conocimiento en los siguientes lenguajes de prog
 <br>
 <br>
 <br>💙LinkedIn: https://www.linkedin.com/in/julieta-jaureguiberri/
-<br>❤️Instagram: https://www.instagram.com/yumiberri/
-<br>💜Behance: https://www.behance.net/YumiJIlustraciones
+<br>💜Behance: https://www.behance.net/madamejulsart
 <br>
 ------------------------------------------
 <br>
